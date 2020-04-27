@@ -4,6 +4,7 @@
 
 ## change 2
 
+<<<<<<< HEAD
 
 
 
@@ -16,4 +17,7 @@
 
 
 
-Lucia Added this comment
+
+
+Yue added this.
+
